@@ -1,0 +1,20 @@
+html, body, .container {
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.the-logo {
+  max-width: 33%;
+}
+.the-logo img {
+  border-radius: 50%;
+  max-width: 100%;
+}
+h1 {
+  font-family: 'Julius Sans One', sans-serif;
+}
