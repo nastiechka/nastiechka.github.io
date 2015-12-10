@@ -1,1 +1,1 @@
-# nastiechka.github.io
+# MamasBerlin is a platform from ru speaking mums to ru speaking mums in Berlin. The goal of the website is to provide young mums with valuable information and access to resources which would be hard to find otherwise.
